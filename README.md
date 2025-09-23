@@ -1,8 +1,8 @@
 <!-- 🎀 Cute Tester Banner -->
 <p align="center">
   <h1>✨ Siraprapha Thabut ✨</h1>
-  <strong>🧸 Software  & QA Engineer 🌸</strong><br/>
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" height="120"/>
+  <strong>🧸 Software Tester & QA Engineer 🌸</strong><br/>
+  <img src="[https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)" height="120"/>
 </p>
 
 <h1 align="center">Hi, I’m Siraprapha <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
