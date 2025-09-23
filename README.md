@@ -1,7 +1,7 @@
 <!-- 🎀 Cute Tester Banner -->
 <p align="center">
-  <h1>✨ Siraprapha          Thabut ✨</h1>
-  <strong>🧸 Software Tester & QA Engineer 🌸</strong><br/>
+  <h1>✨ Siraprapha Thabut ✨</h1>
+  <strong>🧸 Software  & QA Engineer 🌸</strong><br/>
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" height="120"/>
 </p>
 
