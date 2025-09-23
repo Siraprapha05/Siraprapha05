@@ -24,7 +24,7 @@
 - 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
 - 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
 - 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪Siraprapha.@gmail.com | [Github](https://github.com/Siraprapha05)⟫**
+- 📫  Reach me: **⟪Siraprapha.thabut@gmail.com | [Github](https://github.com/Siraprapha05)⟫**
   
 ---
 
@@ -72,7 +72,7 @@ _Add 2–4 projects max. Each row should fit on one screen._
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪Siraprapha.@gmail.com ⟫  
+- 💌 Email: ⟪Siraprapha.thabut@gmail.com ⟫  
 - 📞 Call me: +66-925-120-791
 - 🐦 DM me on [Facebook](https://www.facebook.com/siraprapa.thabut/) | [Instagram](https://www.instagram.com/_nuisira/)
 
