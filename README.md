@@ -1,9 +1,44 @@
-<!-- 🎀 Cute Tester Banner -->
+<!-- 🌈 Cute & Bright Banner -->
+<!-- 🌈 Wow Cute & Bright Banner with CSS -->
 <p align="center">
-  <h1>✨ Siraprapha Thabut ✨</h1>
-  <strong>🧸 Software Tester & QA Engineer 🌸</strong><br/>
-  <img src="[https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)" height="120"/>
+  <h1 style="
+        font-size: 60px; 
+        background: linear-gradient(90deg, #ff9a9e, #fad0c4, #a1c4fd); 
+        -webkit-background-clip: text; 
+        color: transparent; 
+        font-weight: bold;
+        text-shadow: 2px 2px 5px #ffb6c1;
+    ">
+    ✨ Siraprapha Thabut ✨
+  </h1>
+  
+  <h3 style="
+        font-size: 28px; 
+        color: #ff69b4; 
+        font-style: italic;
+        text-shadow: 1px 1px 2px #ffc0cb;
+    ">
+    🧸 Software Tester & QA Engineer 💖
+  </h3>
+  
+  <p style="
+        font-size: 20px; 
+        color: #ff8c00; 
+        text-shadow: 1px 1px 3px #ffb6c1;
+        animation: bounce 2s infinite;
+    ">
+    🌸 Finding Bugs & Making Software Sparkle! 🌟
+  </p>
+  
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" height="150" 
+       style="
+        border-radius: 30px; 
+        box-shadow: 0 0 30px #ff69b4, 0 0 60px #ffb6c1; 
+        transform: rotate(-2deg);
+        animation: float 3s ease-in-out infinite;
+       "/>
 </p>
+
 
 <h1 align="center">Hi, I’m Siraprapha <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
