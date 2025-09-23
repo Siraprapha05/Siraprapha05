@@ -1,51 +1,22 @@
 <!-- 🌈 Cute & Bright Banner -->
-<!-- 🌈 Wow Cute & Bright Banner with CSS -->
-<p align="center">
-  <h1 style="
-        font-size: 60px; 
-        background: linear-gradient(90deg, #ff9a9e, #fad0c4, #a1c4fd); 
-        -webkit-background-clip: text; 
-        color: transparent; 
-        font-weight: bold;
-        text-shadow: 2px 2px 5px #ffb6c1;
-    ">
-    ✨ Siraprapha Thabut ✨
-  </h1>
-  
-  <h3 style="
-        font-size: 28px; 
-        color: #ff69b4; 
-        font-style: italic;
-        text-shadow: 1px 1px 2px #ffc0cb;
-    ">
-    🧸 Software Tester & QA Engineer 💖
-  </h3>
-  
-  <p style="
-        font-size: 20px; 
-        color: #ff8c00; 
-        text-shadow: 1px 1px 3px #ffb6c1;
-        animation: bounce 2s infinite;
-    ">
-    🌸 Finding Bugs & Making Software Sparkle! 🌟
-  </p>
-  
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" height="150" 
+<div align="center"> 
+  <h1>✨ Siraprapha Thabut ✨</h1> 
+  <strong>🧸 Software Tester & QA Engineer 💖</strong><br/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=22&duration=4000&pause=1000&color=B085FF&center=true&vCenter=true&width=500&lines=Welcome!;%F0%9F%92%BB%20Software%20Tester%20%26%20QA%20Engineer;%E2%9C%A8%20Turning%20Ideas%20Into%20Joy;%F0%9F%92%A1%20Stay%20Curious%2C%20Keep%20Improving&background=FFFFFF" 
+     alt="Typing SVG" 
+     style="margin-bottom: 20px;"
+/>
+
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" 
+       height="150" 
        style="
         border-radius: 30px; 
-        box-shadow: 0 0 30px #ff69b4, 0 0 60px #ffb6c1; 
+        box-shadow: 0 0 20px #b085ff, 0 0 40px #d3b3ff; 
         transform: rotate(-2deg);
         animation: float 3s ease-in-out infinite;
+        margin-top: 10px;
        "/>
-</p>
-
-
-<h1 align="center">Hi, I’m Siraprapha <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
-
-<p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
-</p>
+</div>
 
 ---
 
@@ -53,8 +24,8 @@
 - 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
 - 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
 - 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
-
+- 📫  Reach me: **⟪Siraprapha.@gmail.com | [Github](https://github.com/Siraprapha05)⟫**
+  
 ---
 
 ## 🧰 Tech Stack & Tools
@@ -101,9 +72,9 @@ _Add 2–4 projects max. Each row should fit on one screen._
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+- 💌 Email: ⟪Siraprapha.@gmail.com ⟫  
+- 📞 Call me: +66-925-120-791
+- 🐦 DM me on [Facebook](https://www.facebook.com/siraprapa.thabut/) | [Instagram](https://www.instagram.com/_nuisira/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
