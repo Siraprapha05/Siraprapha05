@@ -21,9 +21,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
+- 🌱  I’m currently learning Selenium and Robot Framework 
+- 🛠  Daily driver stack: Prepared Test Plan, Test Design, Test Cases, and System Test Cases for the project. 
+- 🎯  2025 Goal: **⟪To start a career as a Software Tester, apply my testing skills, and grow in quality assurance.⟫**  
 - 📫  Reach me: **⟪Siraprapha.thabut@gmail.com | [Github](https://github.com/Siraprapha05)⟫**
   
 ---
@@ -51,7 +51,7 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Siraprapha0&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Siraprapha05&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraprapha05&layout=compact&hide_border=true" />
 </div>
 
