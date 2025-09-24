@@ -23,7 +23,7 @@
 ## 🚀 About Me
 - 🌱  I’m currently learning Selenium and Robot Framework
 - 🛠  Daily driver stack: Prepared Test Plan, Test Design, Test Cases, and System Test Cases for the project.
-- 🎯  2025 Goal: **To start a career as a Software Tester, apply my testing skills, and grow in quality assurance.**  
+- 🎯  2025 Goal: To start a career as a Software Tester, apply my testing skills, and grow in quality assurance.
 - 📫  Reach me: **Siraprapha.thabut@gmail.com | [Github](https://github.com/Siraprapha05)**
   
 ---
