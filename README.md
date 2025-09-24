@@ -45,7 +45,7 @@
 ## 📌 Featured Projects
 | Project | Tech Stack | Highlights | Links |
 |---------|------|-----------|-------|
-| **⟪Software Testing Project – “Vegetable for Tuition” Website, Maejo University⟫** | ![Robot Framework](https://img.shields.io/badge/Robot_Framework-FF4B4B?style=flat-square&logo=robotframework&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Automatic test case, writing test plan, test design, test case, is a system test of the website. | [Repo](https://github.com/Siraprapha05/MiniProjectTest) |
+| **⟪Software Testing Project – “Vegetable for Tuition” Website, Maejo University⟫** | ![Robot Framework](https://img.shields.io/badge/Robot_Framework-FF4B4B?style=flat-square&logo=robotframework&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Automatic test case, writing test plan, test design, test case, is a system test of the website. | [Repo](https://github.com/Siraprapha05/MiniProjectTest/tree/main/ProjectTest65) |
 
 ---
 
